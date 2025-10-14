@@ -10,8 +10,8 @@ public class MetierImpl implements IMetier {
 
     // Injection automatique de l’implémentation de IDao
     @Autowired
-    @Qualifier("dao") // tu peux choisir "dao" ou "dao2"
-    // @Qualifier("dao2")
+    //@Qualifier("dao") // tu peux choisir "dao" ou "dao2"
+     @Qualifier("dao2")
     private IDao dao;
 
     @Override

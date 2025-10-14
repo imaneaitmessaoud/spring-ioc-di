@@ -5,3 +5,4 @@ com\example\App.class
 com\example\metier\MetierImpl.class
 com\example\dao\DaoImpl.class
 com\example\presentation\Presentation2.class
+com\example\presentation\PresentationXML.class

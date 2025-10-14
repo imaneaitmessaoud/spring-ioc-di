@@ -104,8 +104,9 @@ mvn -q exec:java -D"exec.mainClass=com.example.springdi.presentation.Presentatio
 Implémentation injectée	Valeur retournée par getValue()	Résultat de calcul()
 @Qualifier("dao")	100.0	200.0
 @Qualifier("dao2")	150.0	300.0
-<img width="644" height="83" alt="image" src="https://github.com/user-attachments/assets/c08bf0cf-3535-4a01-b9a5-3114e3672c74" />
-<img width="655" height="191" alt="image" src="https://github.com/user-attachments/assets/490cba9e-c63f-4c0b-ada2-eae2c23ee9f5" />
+
+<img width="655" height="191" alt="image" src="https://github.com/user-attachments/assets/fabd524e-43ad-4312-b126-09a4b269fef7" />
+
 
 🧰 Technologies utilisées
 Java 24

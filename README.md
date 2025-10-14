@@ -106,7 +106,8 @@ Implémentation injectée	Valeur retournée par getValue()	Résultat de calcul()
 @Qualifier("dao2")	150.0	300.0
 
 <img width="655" height="191" alt="image" src="https://github.com/user-attachments/assets/fabd524e-43ad-4312-b126-09a4b269fef7" />
-![WhatsApp Image 2025-10-14 at 10 11 38 PM](https://github.com/user-attachments/assets/8a0286f6-2c68-498b-b803-f2f7b973b780)
+<img width="649" height="76" alt="image" src="https://github.com/user-attachments/assets/e00989b2-6584-4d7b-9d2a-568e8377a1a7" />
+
 
 
 

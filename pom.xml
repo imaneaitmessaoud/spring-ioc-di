@@ -46,7 +46,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.2.0</version>
         <configuration>
-          <mainClass>com.example.springdi.presentation.Presentation2</mainClass>
+          <mainClass>com.example.presentation.Presentation2</mainClass>
           <classpathScope>runtime</classpathScope>
         </configuration>
       </plugin>
